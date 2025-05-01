@@ -6,4 +6,4 @@
 
 # Tesing check for jenkin pipeline
 
-#jenkins-pipeline test
+# jenkin-test
